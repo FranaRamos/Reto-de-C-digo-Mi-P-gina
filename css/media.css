@@ -1,0 +1,29 @@
+@media (max-width: 741px) {
+	[class*="col-"] {
+		width: 100%;
+	}
+
+	body {
+		text-align: center;
+	}
+
+	header label {
+		display: block;
+		float: right;
+	}
+
+	.menu {
+		display: none;
+	}
+
+	.box1,
+	.box2,
+	.box3 {
+		outline: none;
+
+	}
+
+	img {
+		width: 100%;
+	}
+}
